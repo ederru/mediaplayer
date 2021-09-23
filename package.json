@@ -1,0 +1,20 @@
+{
+  "name": "jsplayer",
+  "version": "1.0.0",
+  "description": "Reproductor de video creado por Java Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "javascript",
+    "player",
+    "html",
+    "css"
+  ],
+  "author": "Eder Ruiz <0805ederruizgmail.com>" ,
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
